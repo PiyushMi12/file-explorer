@@ -47,11 +47,12 @@ Implements file operations using system calls (`opendir`, `readdir`, `stat`, `ch
 ---
 
 ## GitHub Repository  
-🔗 [https://github.com/your-username/file-explorer](https://github.com/your-username/file-explorer)
+🔗 [https://github.com/your-username/file-explorer](https://github.com/PiyushMi12/file-explorer)
 
 ---
 
 ## Conclusion  
 This File Explorer demonstrates Linux system call usage and file handling in C.  
 It provides an interactive terminal interface for performing essential file operations efficiently.
+
 
